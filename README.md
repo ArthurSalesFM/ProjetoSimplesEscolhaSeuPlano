@@ -1,4 +1,4 @@
-# Projeto Escolha seu plano com HTML5 e CSS
+# Projeto Escolha seu plano com HTML5 e CSS sem responsividade
 
 **Desenvolvido por** *Arthur Felipe MS*
 
